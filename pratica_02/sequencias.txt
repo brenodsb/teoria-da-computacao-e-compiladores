@@ -1,6 +1,0 @@
-Sequencia 1:
-5
-3
-Sequencia 2:
-8
-6
